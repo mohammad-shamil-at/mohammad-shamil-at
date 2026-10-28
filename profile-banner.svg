@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430" role="img" aria-labelledby="title desc">
+<title id="title">Mohammad Shamil AT — Good code. Real solutions.</title><desc id="desc">Python Developer and System Support Analyst based in Dubai. Web applications, APIs and databases, IT support.</desc>
+<rect width="1200" height="430" rx="20" fill="#f5f2ec"/>
+<path d="M32 32H1168V398H32Z" fill="none" stroke="#d5d0c6"/>
+<rect x="32" y="32" width="7" height="366" fill="#ed633b"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<text x="73" y="83" font-size="15" font-weight="bold" letter-spacing="3" fill="#aa3b1e">MOHAMMAD SHAMIL AT</text>
+<text x="1126" y="83" text-anchor="end" font-size="12" letter-spacing="2" fill="#706d65">DUBAI, UAE ↗</text>
+<text x="69" y="184" font-size="79" font-weight="bold" letter-spacing="-4" fill="#272623">Good code.</text>
+<text x="69" y="270" font-size="79" font-weight="bold" letter-spacing="-4" fill="#ba3f1b">Real solutions.</text>
+<text x="74" y="320" font-size="19" fill="#54534d">Python Developer / System Support Analyst</text>
+<path d="M74 350H1126" stroke="#d5d0c6"/>
+<text x="74" y="379" font-size="11" letter-spacing="1.8" fill="#706d65">WEB APPLICATIONS · APIs &amp; DATABASES · IT SUPPORT</text>
+<g transform="translate(920 151)" fill="none" stroke="#d5d0c6" stroke-width="1.5"><rect width="155" height="155" rx="12"/><rect x="-30" y="30" width="155" height="155" rx="12"/><path d="M35 90L14 110L35 130M69 90L90 110L69 130" stroke="#ba3f1b" stroke-width="5"/><path d="M60 83L44 137" stroke="#ba3f1b" stroke-width="4"/></g>
+</g></svg>
